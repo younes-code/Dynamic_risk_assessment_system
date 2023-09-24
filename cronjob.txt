@@ -1,0 +1,1 @@
+*/10 * * * * $(which python3) fullprocess.py >> ~/cron.log
